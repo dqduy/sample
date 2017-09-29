@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Code\\hello-jni\\java\\project\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "E:\\Code\\hello-jni\\java\\project\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\code\\hello-jni\\java\\project\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "G:\\code\\hello-jni\\java\\project\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    }
+]

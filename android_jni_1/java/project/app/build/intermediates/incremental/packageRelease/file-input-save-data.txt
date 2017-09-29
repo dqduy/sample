@@ -1,0 +1,33 @@
+#Internal package file, do not edit.
+#Wed Aug 30 09:26:39 ICT 2017
+2.base=G\:\\code\\hello-jni\\java\\project\\app\\build\\intermediates\\res\\resources-release.ap_
+5.file=G\:\\code\\hello-jni\\java\\project\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main\\classes.dex
+5.set=DEX
+3.base=G\:\\code\\hello-jni\\java\\project\\app\\build\\intermediates\\res\\resources-release.ap_
+6.file=G\:\\code\\hello-jni\\java\\project\\app\\build\\intermediates\\res\\resources-release.ap_\\res\\mipmap-xxxhdpi-v4\\ic_launcher.png
+2.set=ANDROID_RESOURCE
+4.base=G\:\\code\\hello-jni\\java\\project\\app\\build\\intermediates\\res\\resources-release.ap_
+7.file=G\:\\code\\hello-jni\\java\\project\\app\\build\\intermediates\\res\\resources-release.ap_\\res\\layout\\main.xml
+7.set=ANDROID_RESOURCE
+count=10
+0.file=G\:\\code\\hello-jni\\java\\project\\app\\build\\intermediates\\res\\resources-release.ap_\\res\\mipmap-xxhdpi-v4\\ic_launcher.png
+5.base=G\:\\code\\hello-jni\\java\\project\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main
+8.file=G\:\\code\\hello-jni\\java\\project\\app\\build\\intermediates\\res\\resources-release.ap_\\res\\mipmap-mdpi-v4\\ic_launcher.png
+4.set=ANDROID_RESOURCE
+6.base=G\:\\code\\hello-jni\\java\\project\\app\\build\\intermediates\\res\\resources-release.ap_
+1.file=G\:\\code\\hello-jni\\java\\project\\app\\build\\intermediates\\res\\resources-release.ap_\\AndroidManifest.xml
+9.set=NATIVE_RESOURCE
+9.file=G\:\\code\\hello-jni\\java\\project\\app\\build\\intermediates\\transforms\\stripDebugSymbol\\release\\folders\\2000\\1f\\main\\lib\\armeabi-v7a\\libhello.so
+1.set=ANDROID_RESOURCE
+7.base=G\:\\code\\hello-jni\\java\\project\\app\\build\\intermediates\\res\\resources-release.ap_
+2.file=G\:\\code\\hello-jni\\java\\project\\app\\build\\intermediates\\res\\resources-release.ap_\\res\\mipmap-xhdpi-v4\\ic_launcher.png
+6.set=ANDROID_RESOURCE
+0.base=G\:\\code\\hello-jni\\java\\project\\app\\build\\intermediates\\res\\resources-release.ap_
+8.base=G\:\\code\\hello-jni\\java\\project\\app\\build\\intermediates\\res\\resources-release.ap_
+3.file=G\:\\code\\hello-jni\\java\\project\\app\\build\\intermediates\\res\\resources-release.ap_\\res\\mipmap-hdpi-v4\\ic_launcher.png
+3.set=ANDROID_RESOURCE
+1.base=G\:\\code\\hello-jni\\java\\project\\app\\build\\intermediates\\res\\resources-release.ap_
+9.base=G\:\\code\\hello-jni\\java\\project\\app\\build\\intermediates\\transforms\\stripDebugSymbol\\release\\folders\\2000\\1f\\main
+4.file=G\:\\code\\hello-jni\\java\\project\\app\\build\\intermediates\\res\\resources-release.ap_\\resources.arsc
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE
